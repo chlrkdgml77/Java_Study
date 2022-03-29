@@ -12,8 +12,8 @@
 ## 정리
 
 
-[자바의 정석](https://github.com/chlrkdgml77/Java_Study/tree/main/%EC%9E%90%EB%B0%94%EC%9D%98%20%EC%A0%95%EC%84%9D)
-[디자인패턴](https://github.com/chlrkdgml77/Java_Study/tree/main/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4)
+* [자바의 정석](https://github.com/chlrkdgml77/Java_Study/tree/main/%EC%9E%90%EB%B0%94%EC%9D%98%20%EC%A0%95%EC%84%9D)
+* [디자인패턴](https://github.com/chlrkdgml77/Java_Study/tree/main/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4)
 
 
 ## ㅁㄴㅇㄹ
